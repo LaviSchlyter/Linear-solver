@@ -1,0 +1,7 @@
+Matrix A file: ../examples/MatrixA2.dat
+Vector b file: ../examples/VectorB.dat
+Method chosen: LU
+Output file: ../examples/Output.dat
+Preconditioner: ../examples/MatrixP.dat
+Tolerance: 0.001
+Iterations: 100

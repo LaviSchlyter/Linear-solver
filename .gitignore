@@ -1,0 +1,12 @@
+
+
+cmake-build-debug
+step-*.csv
+build
+starting_point
+*~
+.idea
+.gitmodules
+
+
+
